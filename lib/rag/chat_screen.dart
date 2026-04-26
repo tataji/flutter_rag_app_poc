@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_rag_app_poc/rag/rag_provider.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-import '../providers/rag_provider.dart';
 
 class ChatScreen extends StatefulWidget {
   const ChatScreen({super.key});
